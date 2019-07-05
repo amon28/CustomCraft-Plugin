@@ -1,0 +1,31 @@
+---
+#Grass: <- Name of the custom recipe
+# result: "1:0" <-ID of what you want to craft
+# top: ABC }
+# mid: DEF } Crafting Table grid
+# bot: GHI }
+# A: "1:0" >
+# B: "2:0" >Top Items in the grid
+# C: "0:0" >
+# D: "0:0" >
+# E: "0:0" >Middle Items in the grid
+# F: "0:0" >
+# G: "0:0" >
+# H: "0:0" >Bottom Items in the grid
+# I: "0:0" >
+############################
+EnderPearl:
+  result: "368:0"
+  top: ABC
+  mid: DEF
+  bot: GHI
+  A: "1:0"
+  B: "2:0"
+  C: "0:0"
+  D: "0:0"
+  E: "0:0"
+  F: "0:0"
+  G: "0:0"
+  H: "0:0"
+  I: "0:0"
+...
